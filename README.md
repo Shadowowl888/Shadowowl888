@@ -17,12 +17,6 @@ My name is Devin and I'm starting out as a passionate developer about technology
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next)&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node)&nbsp;
-<br />
-![GoLang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
