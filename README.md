@@ -6,7 +6,25 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Shadowowl888)
 
-My name is Devin and I'm starting out as a passionate developer about technology, computer science, and learning new languages
+My name is Devin and I'm a self-taight passionate developer learning new technologies, computer science, and programming languages in Los Angeles, CA.
+
+### What I'm Currently Learning
+<ul>
+  <li>Backend JS with Node and Express</li>
+  <li>Ruby on Rails</li>
+</ul>
+
+### Projects I'm Working On
+<ul>
+  <li>Rock Paper Scissors App</li>
+  <li>Personal Portfolio Site</li>
+</ul>
+
+### Contact Me
+<ul>
+  <li>📨Email: khundevin@gmail.com</li>
+  <li>💻Discord: Shadowowl ☆#3300</li>
+</ul>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -44,7 +62,7 @@ My name is Devin and I'm starting out as a passionate developer about technology
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning discord.js and web development with react
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch anime and TV shows
 
 <br />
