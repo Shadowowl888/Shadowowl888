@@ -17,12 +17,13 @@ My name is Devin and I'm a self-taight passionate developer learning new technol
 ### Projects I'm Working On
 <ul>
   <li>Rock Paper Scissors App</li>
+  <li>Ruby Hangman</li>
   <li>Personal Portfolio Site</li>
 </ul>
 
 ### Contact Me
 <ul>
-  <li>📨Email: khundevin@gmail.com</li>
+  <li>📨Email: **khundevin@gmail.com**</li>
   <li>💻Discord: Shadowowl ☆#3300</li>
 </ul>
 
